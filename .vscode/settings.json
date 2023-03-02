@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Skinet",
+            "database": "${workspaceFolder:Skinet}/API/Skinet.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
